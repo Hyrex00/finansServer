@@ -22,13 +22,13 @@ public class emailSender {
     //Mail Connection
     static {
         // SMTP Mail server informations
-        String host = "mail.kurumsaleposta.com";  
-        String port = "587"; 
-        String username = "info@yourgame.tech"; 
-        String password = "EdizDeniz_209_";
+        String host =   
+        String port =  
+        String username =  
+        String password = 
 
         // Sender Info
-        fromEmail = "info@yourgame.tech";
+        fromEmail = 
         subject = "Verification";
 
         // SMTP Settings
@@ -69,6 +69,7 @@ public class emailSender {
             return false;
         }
     }
+
 
 
 }
