@@ -1,0 +1,51 @@
+// 100 -> User created
+// 101 -> Username is not unique 
+// 102 -> no permission 
+// 103 -> Invalid input 
+// 105 -> Database error 
+// 106 -> Username taken 
+// 107 -> Username taken while email verification LOL 
+// 108 -> Password Changed
+// 110 -> Create user action is added and sent to email 
+// 118 -> Change password action is added and sent to email 
+
+// 200 -> Course created successfully 
+// 201 -> Wrong password 
+// 202 -> no permission
+// 203 -> Invalid input 
+// 205 -> Database error 
+// 206 -> Title already taken 
+// 210 -> Create Course action is added and sent to email 
+
+// 300 -> LocalAD created successfully 
+// 301 -> Wrong password 
+// 302 -> no permission
+// 303 -> Invalid input 
+// 305 -> Database error 
+// 306 -> Title already taken 
+// 310 -> Create LocalAD action is added and sent to email 
+
+
+// 402 -> Action is already processed
+// 403 -> Action timeout
+// 404 -> URL not found
+// 405 -> Database error
+
+// 429 -> Too many requests
+
+// 600 -> User deleted :(
+// 601 -> Wrong password
+// 603 -> Invalid input
+// 605 -> Database error 
+// 610 -> Delete user action is added and sent to email 
+
+// 701 -> Email could not be sent 
+
+// 800 -> Password is correct 
+// 801 -> Wrong password 
+// 803 -> Invalid input 
+// 805 -> Database error --TODO
+
+// 901 -> username doesnt exist 
+
+// 999 -> WHAT THE ACTUAL F*** DID U DO TO GET THIS ERROR LMFAO (999)
