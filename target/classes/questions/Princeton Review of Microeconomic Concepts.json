@@ -1,0 +1,527 @@
+[
+  {
+    "number": 1,
+    "question": "Birey için talep eğrisi aşağıdakilerden hangisinin sonucu olarak aşağı doğru eğimlidir?",
+    "options": [
+      "Azalan marjinal fayda",
+      "Azalan marjinal getiri",
+      "Fisher etkisi",
+      "Azalan ölçeğe göre getiri",
+      "Artan marjinal maliyet"
+    ],
+    "answer": 0,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 2,
+    "question": "Çim biçme hizmetleri arz eğrisinin yukarı doğru eğimli olmasının nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Azalan marjinal maliyetler",
+      "Zamanın artan fırsat maliyeti",
+      "Azalan marjinal fayda",
+      "Artan ölçeğe göre getiri",
+      "Kapsam ekonomileri"
+    ],
+    "answer": 1,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 3,
+    "question": "Eğer arz ve talep birlikte artarsa, sonuç aşağıdakilerden hangisi olur?",
+    "options": [
+      "Fiyatta kesin artış ve miktarda belirsiz değişim",
+      "Miktarda kesin artış ve fiyatta belirsiz değişim",
+      "Miktarda kesin azalış ve fiyatta belirsiz değişim",
+      "Fiyatta kesin azalış ve miktarda kesin artış",
+      "Fiyatta kesin artış ve miktarda kesin artış"
+    ],
+    "answer": 1,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 4,
+    "question": "İşgücü talep eğrisi aşağı doğru eğimli olduğunda, asgari ücretteki bir artış",
+    "options": [
+      "Bazı işçiler için faydalı, bazı işçiler için zararlı olur",
+      "Tüm işçiler için faydalı ve bazı işverenler için zararlı olur",
+      "Tüm işçiler ve işverenler için zararlı olur",
+      "Tüm işçiler ve işverenler için faydalı olur",
+      "Yukarıdakilerin hiçbiri"
+    ],
+    "answer": 0,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 5,
+    "question": "Kaşıkların fiyatındaki bir artış aşağıdakilerden hangisine neden olur?",
+    "options": [
+      "Kaşık talebinde azalış",
+      "Kaşık arzında azalış",
+      "Kaşık talebinde artış",
+      "Kaşık arzında artış",
+      "Talep edilen kaşık miktarında azalış"
+    ],
+    "answer": 4,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 6,
+    "question": "Sardalyalardan elde edilen toplam fayda, aşağıdakilerden hangisine kadar satın alındığında maksimize edilir?",
+    "options": [
+      "Marjinal fayda sıfır olduğunda",
+      "Marjinal fayda marjinal maliyete eşit olduğunda",
+      "Tüketici artığı sıfır olduğunda",
+      "Dağıtıcı etkinlik sağlandığında",
+      "Ölü ağırlık kaybı sıfır olduğunda"
+    ],
+    "answer": 0,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 7,
+    "question": "Fiyat %3 arttığında, arz edilen miktar %5 artıyorsa aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Arz birim esnektir",
+      "Talep esnek değildir",
+      "Talep esnektir",
+      "Arz esnektir",
+      "Arz esnek değildir"
+    ],
+    "answer": 3,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 8,
+    "question": "Normal mallar her zaman aşağıdakilerden hangisine sahiptir?",
+    "options": [
+      "Esnek talep eğrisi",
+      "Esnek olmayan talep eğrisi",
+      "Esnek arz eğrisi",
+      "Negatif gelir esnekliği",
+      "Pozitif gelir esnekliği"
+    ],
+    "answer": 4,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 9,
+    "question": "Çapraz fiyat talep esnekliği negatif olduğunda, söz konusu mallar mutlaka aşağıdakilerden hangisidir?",
+    "options": [
+      "Normal",
+      "Düşük (inferior)",
+      "Tamamlayıcı",
+      "İkame",
+      "Lüks"
+    ],
+    "answer": 2,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 10,
+    "question": "Yukarıdaki arz ve talep grafiğinde, arz ve talep eğrileri kaydığında, denge fiyatı aşağıdakilerden hangisi olur?",
+    "options": [
+      "Fiyat düştü ve denge miktarı belirsiz",
+      "Fiyat düştü ve denge miktarı değişmedi",
+      "Fiyat aynı kaldı ve denge miktarı arttı",
+      "Fiyat belirsiz ve denge miktarı azaldı",
+      "Yukarıdakilerin hiçbiri"
+    ],
+    "answer": 0,
+    "image": true,
+    "imageUri": "file:///android_asset/images/q10.png",
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 11,
+    "question": "Bir işletme gelirini artırmak istiyor ve ürününün talep esnekliğinin kesin olarak 0,78 olduğunu biliyorsa, aşağıdakilerden hangisini yapmalıdır?",
+    "options": [
+      "Fiyatı düşürmeli çünkü talep esnektir",
+      "Fiyatı düşürmeli çünkü talep birim esnektir",
+      "Fiyatı düşürmeli çünkü talep esnek değildir",
+      "Fiyatı artırmalı çünkü talep esnek değildir",
+      "Fiyatı artırmalı çünkü talep esnektir"
+    ],
+    "answer": 3,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 12,
+    "question": "Uzun dönem ortalama maliyet eğrisi aşağıdakilerden hangisidir?",
+    "options": [
+      "Her zaman kısa dönem ortalama maliyet eğrisinin altındadır",
+      "Her zaman kısa dönem ortalama maliyet eğrisinin üstündedir",
+      "Her zaman kısa dönem ortalama maliyet eğrisini kısa dönem ortalama maliyetin minimumunda keser",
+      "Kısa dönem ortalama maliyetin bir nokta dışında üzerinde yer alır",
+      "Kısa dönem ortalama maliyetin bir nokta dışında altında yer alır"
+    ],
+    "answer": 4,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 13,
+    "question": "Düz, aşağı eğimli bir talep eğrisine sahip bir tekelin marjinal gelir eğrisi aşağıdakilerden hangisidir?",
+    "options": [
+      "Yukarı eğimli",
+      "Talep eğrisi ile dikey eksen arasındaki yarıda",
+      "Başlangıçta aşağı eğimli sonra yukarı eğimli",
+      "Talep eğrisine paralel",
+      "Dikey eksene paralel"
+    ],
+    "answer": 1,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 14,
+    "question": "Marjinal maliyet her zaman ortalama değişken maliyeti aşağıdakilerden hangisinde keser?",
+    "options": [
+      "Kâr maksimize eden miktarda",
+      "Marjinal maliyetin minimumunda",
+      "Ortalama değişken maliyetin maksimumunda",
+      "Ortalama değişken maliyetin minimumunda",
+      "Marjinal maliyetin maksimumunda"
+    ],
+    "answer": 3,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 15,
+    "question": "Oligopol piyasasında firmalar aşağıdakilerden hangisine sahiptir?",
+    "options": [
+      "Ekonomik kâr elde edemezler",
+      "Karşılıklı bağımlıdırlar",
+      "Antitröst yasalarına tabi değildirler",
+      "Sayıca fazladırlar",
+      "Piyasa güçleri yoktur"
+    ],
+    "answer": 1,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 16,
+    "question": "Aynı maliyetlere sahip rekabetçi bir ürün piyasasına kıyasla, bir tekel aşağıdakilerden hangisini içerir?",
+    "options": [
+      "Daha fazla ölü ağırlık kaybı",
+      "Daha düşük fiyatlar",
+      "Daha yüksek üretim düzeyi",
+      "Daha fazla firma",
+      "Daha yüksek kaliteli ürünler"
+    ],
+    "answer": 0,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 17,
+    "question": "Firma A ve Firma B faaliyetlerini genişletip genişletmemeye karar veren rakip firmalardır. Sağlanan getiri matrisi, yapılan herhangi bir karardan elde edilecek kârı (binlerle ifade edilmiştir) göstermektedir. Bu verilere göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Firma A’nın baskın stratejisi vardır, Firma B’nin yoktur",
+      "Firma B’nin baskın stratejisi vardır, Firma A’nın yoktur",
+      "Hiçbir firmanın baskın stratejisi yoktur ve bir Nash dengesi vardır",
+      "Her iki firmanın da baskın stratejisi vardır ve bir Nash dengesi vardır",
+      "Firma A ve Firma B faaliyetlerini genişletmemelidir"
+    ],
+    "answer": 3,
+    "image": true,
+    "imageUri": "file:///android_asset/images/q17.png",
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 18,
+    "question": "Tam rekabetçi bir piyasada faaliyet gösteren bu firma için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Ekonomik kâr elde edilmektedir, firmalar sektörden çıkacak ve fiyat düşecektir",
+      "Ekonomik zarar edilmektedir, firmalar sektöre girecek ve fiyat düşecektir",
+      "Ekonomik zarar edilmektedir, firmalar sektörden çıkacak ve fiyat artacaktır",
+      "Firma B noktasında tahsis açısından etkindir",
+      "Firma D noktasında tahsis açısından etkindir"
+    ],
+    "answer": 2,
+    "image": true,
+    "imageUri": "file:///android_asset/images/q18.png",
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 19,
+    "question": "Rekabetçi bir firmanın emek talebi doğrudan aşağıdakilerden hangisine bağlıdır?",
+    "options": [
+      "Kârlar",
+      "İşçilerin zamanının fırsat maliyeti",
+      "Ücret ve emeğin ortalama (fiziksel) ürünü",
+      "Emeğin marjinal (fiziksel) ürünü ve çıktı fiyatı",
+      "Marjinal fayda ve marjinal maliyet"
+    ],
+    "answer": 3,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 20,
+    "question": "Rekabetçi bir girdi piyasasına kıyasla, bir monopsomi aşağıdakilerden hangisini yapar?",
+    "options": [
+      "Daha az öder ve daha fazla işe alır",
+      "Daha az öder ve aynı miktarda işe alır",
+      "Daha fazla öder ve daha fazla işe alır",
+      "Daha fazla öder ve daha az işe alır",
+      "Daha az öder ve daha az işe alır"
+    ],
+    "answer": 4,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 21,
+    "question": "Aşağıdakilerden hangisi sendikaların ücretleri artırmak için kullandıkları yöntemlerden biri değildir?",
+    "options": [
+      "Ücret tabanı elde etmek için müzakereler",
+      "Sınırlayıcı üyelik politikaları",
+      "İkame kaynakların fiyatlarını düşürme çabaları",
+      "Featherbedding veya yapay iş kuralları",
+      "Ürettikleri ürüne olan talebi artırma çabaları"
+    ],
+    "answer": 2,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 22,
+    "question": "İkili tekel (bilateral monopoly) aşağıdaki durumlardan hangisinde ortaya çıkar?",
+    "options": [
+      "Bir monopsomi bir tekelden alım yaptığında",
+      "Bir tekel iki farklı tüketici tipine satış yaptığında",
+      "Bir tekel bir monopsomiden alım yaptığında",
+      "Bir tekel iki farklı tür mal sattığında",
+      "Bir tekel iki farklı fiyattan satış yaptığında"
+    ],
+    "answer": 0,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 23,
+    "question": "Görece düşük gelirliler, görece yüksek gelirlilere kıyasla gelirlerinin daha büyük bir yüzdesini gıdaya harcadığından, gıda üzerine konan bir satış vergisi aşağıdaki vergi türlerinden hangisine girer?",
+    "options": [
+      "Artan oranlı (progressive)",
+      "Orantılı (proportional)",
+      "Azalan oranlı (regressive)",
+      "Nötr",
+      "Düz (flat)"
+    ],
+    "answer": 2,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 24,
+    "question": "Bir firma her işçiye 15$ ödemekte ve ürünlerini her biri 3$’dan satmaktadır. 3. işçinin marjinal ürünü 10 ise, aşağıdakilerden hangisi en doğru ifadedir?",
+    "options": [
+      "Firma daha fazla işçi almalı ki MRP artsın",
+      "Firma daha fazla işçi almalı ki MRP azalsın",
+      "Firma daha az işçi almalı ki MRP artsın",
+      "Firma daha az işçi almalı ki MRP azalsın",
+      "Firma hiçbir şey yapmamalı çünkü şu an kârı maksimize etmektedir"
+    ],
+    "answer": 1,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 25,
+    "question": "Eğer hükümet, bir tekeli tahsis açısından etkin miktarda üretim yapmaya zorunlu kılarsa, aşağıdakilerden hangisi doğru olur?",
+    "options": [
+      "Tekel başa baş noktasında olur",
+      "Tekel ekonomik zarar eder",
+      "Tekel ekonomik kâr elde eder",
+      "Bu piyasada ölü ağırlık kaybı artar",
+      "Bu piyasada ölü ağırlık kaybı azalır"
+    ],
+    "answer": 4,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 26,
+    "question": "Marjinal gelir marjinal maliyete aşağıdaki noktalardan hangisinde eşittir?",
+    "options": [
+      "Toplam gelirin toplam maliyetten en fazla uzak olduğu noktada",
+      "Toplam gelir toplam maliyete eşit olduğunda",
+      "Marjinal ürün en yüksek olduğunda",
+      "Toplam ürün en yüksek olduğunda",
+      "Ortalama toplam maliyet minimum olduğunda"
+    ],
+    "answer": 0,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 27,
+    "question": "Hükümet tam rekabetçi bir piyasada üreticilere sübvansiyon verirse, aşağıdakilerden hangisi olur?",
+    "options": [
+      "Ürüne olan talep artar",
+      "Ürüne olan talep azalır",
+      "Tüketici artığı artar",
+      "Tüketici artığı azalır",
+      "Arz azalır"
+    ],
+    "answer": 2,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 28,
+    "question": "Fiyat farklılaştırması yapan bir tekel ile yapmayan bir tekel arasındaki fark nedir?",
+    "options": [
+      "Talep eğrisi, fiyat farklılaştırması yapan tekelde daha esnektir",
+      "Fiyat farklılaştırması yapan tekel, yapmayan tekelden daha az gelir elde eder",
+      "Fiyat farklılaştırması yapan tekel, yapmayan tekelden daha fazla gelir elde eder",
+      "Fiyat farklılaştırması yapan tekel, yapmayan tekelden daha az üretim yapar",
+      "Fiyat farklılaştırması yapan tekelin marjinal gelir eğrisi, yapmayan tekelden daha küçüktür"
+    ],
+    "answer": 2,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 29,
+    "question": "Aşağıdakilerden hangisi dondurma külahlarına olan talebin artmasına neden olabilir?",
+    "options": [
+      "Dondurma külahlarının fiyatında azalma",
+      "Dondurmanın (tamamlayıcı mal) fiyatında azalma",
+      "Dondurmanın (tamamlayıcı mal) fiyatında artış",
+      "Lollipopların (yakın ikame mal) fiyatında azalma",
+      "Dondurma külahı arzında artış"
+    ],
+    "answer": 1,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 30,
+    "question": "Yukarıdaki diyagram, aynı kaynakların kullanımıyla A ve B ülkelerinin üretim olanaklarını göstermektedir. Aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Ülke A ve B birbirleriyle ticaretten fayda sağlayamaz.",
+      "Ülke A televizyonlarda karşılaştırmalı üstünlüğe sahiptir ve Ülke B DVD oynatıcılarda karşılaştırmalı üstünlüğe sahiptir.",
+      "Ülke A DVD oynatıcılarda karşılaştırmalı üstünlüğe sahiptir ve Ülke B televizyonlarda karşılaştırmalı üstünlüğe sahiptir.",
+      "Ülke A, 1 TV ürettiğinde 1 DVD oynatıcı fırsat maliyetine sahiptir.",
+      "Ülke B, 1 DVD oynatıcı ürettiğinde 1 TV fırsat maliyetine sahiptir."
+    ],
+    "answer": 1,
+    "image": true,
+    "imageUri": "file:///android_asset/images/q30.png",
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 31,
+    "question": "Bir öğrenci ekonomi sınavına çalışırken 3 dilim pizza yemektedir. İlk dilimin marjinal faydası 10 util, ikinci diliminki 7 util, üçüncü diliminki ise 3 util’dir. Bu verilere göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Öğrenci başka pizza yemezdi.",
+      "4. dilimin marjinal faydası 0 olurdu.",
+      "Öğrenci 2. dilimden sonra pizza yemeyi bırakmalıydı.",
+      "Bu öğrencinin pizzadan elde ettiği toplam fayda 20 util’dir.",
+      "Azalan marjinal fayda nedeniyle toplam fayda 1. dilimden sonra azalır."
+    ],
+    "answer": 3,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 32,
+    "question": "Mısır tam rekabetçi bir piyasada üretiliyor ve hükümet denge fiyatının üzerinde bir tavan fiyat koyarsa, aşağıdakilerden hangisi doğru olur?",
+    "options": [
+      "Mısırın talep veya arz miktarında hiçbir değişiklik olmaz.",
+      "Mısırda kıtlık oluşur.",
+      "Mısırda fazlalık oluşur.",
+      "Mısır üreticileri düşen fiyat nedeniyle gelir kaybeder.",
+      "Mısır için yasadışı piyasalar gelişebilir."
+    ],
+    "answer": 0,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 33,
+    "question": "Aşağıdaki durumlardan hangisinde üreticiye uygulanan bir tüketim vergisinin en büyük yükünü tüketiciler öder?",
+    "options": [
+      "Talep eğrisi fiyat esnek, arz eğrisi fiyat esnek değilse",
+      "Talep eğrisi fiyat esnek, arz eğrisi tamamen esnekse",
+      "Talep eğrisi fiyat esnek değil, arz eğrisi fiyat esnekse",
+      "Talep eğrisi fiyat esnek değil, arz eğrisi fiyat esnek değilse",
+      "Talep eğrisi tamamen esnek değil, arz eğrisi fiyat esnekse"
+    ],
+    "answer": 2,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 34,
+    "question": "Yukarıda A ve B şirketleri, işbirliği yapmayan oligopolistik bir piyasada faaliyet göstermektedir. Her biri büyük veya küçük bir reklam stratejisi seçmek zorundadır. Verilere göre A ve B şirketleri için baskın strateji hangisidir?",
+    "options": [
+      "Şirket A küçük, Şirket B küçük",
+      "Şirket A küçük, Şirket B büyük",
+      "Şirket A büyük, Şirket B küçük",
+      "Şirket A büyük, Şirket B büyük",
+      "Ne A ne de B için baskın strateji vardır"
+    ],
+    "answer": 3,
+    "image": true,
+    "imageUri": "file:///android_asset/images/q34.png",
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 35,
+    "question": "Bir tekel neden tam rekabetçi bir firmadan daha az etkindir?",
+    "options": [
+      "Tekel daha fazla üretir ve daha yüksek fiyata satar",
+      "Tekel daha az üretir ve daha yüksek fiyata satar",
+      "Tekel kısa vadede kâr elde eder ama uzun vadede edemez",
+      "Tam rekabetçi firma kısa vadede başa baş noktasında kalır, tekel kalmaz",
+      "Tekel tahsis açısından etkin, tam rekabetçi firma ise üretim açısından etkindir"
+    ],
+    "answer": 1,
+    "image": false,
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 36,
+    "question": "Bu tekel için kâr, aşağıdaki alanlardan hangisiyle gösterilmiştir?",
+    "options": [
+      "P1OAC",
+      "Üçgen P3PD",
+      "Üçgen DBE",
+      "POFB",
+      "PDEP2"
+    ],
+    "answer": 4,
+    "image": true,
+    "imageUri": "file:///android_asset/images/q36.png",
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  },
+  {
+    "number": 37,
+    "question": "Yukarıdaki grafikte arz eğrisindeki kayma aşağıdakilerden hangisi nedeniyle gerçekleşmiştir?",
+    "options": [
+      "Tüketici gelirleri azaldı ve dondurma düşük (inferior) maldır",
+      "Dondurmanın fiyatı arttı",
+      "Çikolata sosu üretimi arttı",
+      "Üretimde kullanılan süt maliyeti düştü",
+      "Üretimde kullanılan süt maliyeti arttı"
+    ],
+    "answer": 3,
+    "image": true,
+    "imageUri": "file:///android_asset/images/q37.png",
+    "source": "Cracking the AP Economics Macro & Micro Exams (Princeton Review, 2013 Edition)"
+  }
+]
